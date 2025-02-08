@@ -1,6 +1,13 @@
 ---
 ---
+//깃허브 올릴때는 이 코드를 un comment
+//@use '../../node_modules/bootstrap/scss/bootstrap';
 
-@use '../../node_modules/bootstrap/scss/bootstrap';
+// local에서 작업할때는 이 코드를 uncomment
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
 
 /* append your custom style below */

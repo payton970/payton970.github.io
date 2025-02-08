@@ -1,4 +1,14 @@
 <!-- markdownlint-disable-next-line -->
+
+## 매번 할때마다 알아야 할것들
+
+- assets/css/jekyll-theme-chirpy.scss 파일을 로컬에서 작업하고 있을때랑 Github commit할때랑 다르니깐 항상 상황보고 2개의 line을 un/comment하기
+- 로컬에서 작업할때 3개 실행해야함
+- bundle exec jekyll clean
+- bundle exec jekyll build
+- bundle exec jekyll serve
+
+
 <div align="center">
 
   <!-- markdownlint-disable-next-line -->

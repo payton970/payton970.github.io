@@ -1,9 +1,9 @@
 
 
 {
-  "name": "Chirpy",
-  "short_name": "Chirpy",
-  "description": "A minimal, responsive and feature-rich Jekyll theme for technical writing.",
+  "name": "GiDev",
+  "short_name": "GiDev",
+  "description": "This blog is a space where I document my journey as a software engineer, sharing insights, best practices, and lessons learned along the way. From coding challenges to system design, career growth, and industry trends, I explore what it takes to continuously improve as a professional SDE. Whether you're a fellow developer or just starting out, join me in the pursuit of writing better code and building impactful software.",
   "icons": [
     {
       "src": "/assets/img/favicons/android-chrome-192x192.png",
